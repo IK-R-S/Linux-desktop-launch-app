@@ -14,6 +14,7 @@ Exec=Diretório onde o executável se encontra
 Icon=Diretório onde o ícone .png ou .svg se econtra
 Type=Application
 Categories=Categoria1;Categoria2;etc
+Terminal=False
 ```
 Basta editar os valores adequados ao seu app e inserir o `arquivo.desktop` no seguinte diretório:
 
