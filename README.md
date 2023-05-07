@@ -1,4 +1,4 @@
-# Linux-desktop-launch-app
+# .desktop
 Crie lançadores para seus executáveis e os torne aplicativos visíveis com ícones.
 > O [Desktop Entry] é uma seção em um arquivo .desktop, que é usado para definir as informações de um aplicativo para ambientes desktop Linux. Ele contém informações sobre o aplicativo, como o nome, comentário, ícone, categoria e comando para executar o aplicativo. Quando um arquivo .desktop é instalado em um sistema, essas informações são usadas para criar um atalho para o aplicativo no menu do ambiente desktop, permitindo que os usuários iniciem facilmente o aplicativo a partir daí. 
 
