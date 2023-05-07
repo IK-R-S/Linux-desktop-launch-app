@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Nome do aplicativo
+StartupWMClass=Nome do aplicativo
+Comment=Comentário sobre o app
+Exec=Diretório onde o executável se encontra
+Icon=Diretório onde o ícone .png ou .svg se econtra
+Type=Application
+Categories=Categoria1;Categoria2;etc
