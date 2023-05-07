@@ -4,7 +4,7 @@ Crie lançadores para seus executáveis e os torne aplicativos visíveis com íc
 
 > Além disso, o [Desktop Entry] também pode conter outras informações, como ações personalizadas que podem ser executadas no aplicativo, parâmetros para serem usados na execução do aplicativo, informações sobre o autor e muito mais. Em geral, é uma parte fundamental na criação e distribuição de aplicativos Linux, permitindo que os desenvolvedores especifiquem todas as informações necessárias para que o aplicativo seja exibido corretamente no menu do ambiente desktop e seja facilmente acessível pelos usuários.
 
-Aqui está um exemplo de um arquivo .desktop:
+Aqui está um exemplo de um `arquivo.desktop`:
 ```.desktop
 [Desktop Entry]
 Name=Nome do aplicativo
@@ -14,6 +14,11 @@ Exec=Diretório onde o executável se encontra
 Icon=Diretório onde o ícone .png ou .svg se econtra
 Type=Application
 Categories=Categoria1;Categoria2;etc
+```
+Basta editar os valores adequados ao seu app e inserir o `arquivo.desktop` no seguinte diretório:
+
+```bash
+/usr/share/applications
 ```
 
 ## Principais parâmetros [Desktop Entry]
